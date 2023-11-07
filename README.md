@@ -197,3 +197,5 @@ Use the following QR code to link the public AWS [workshop](https://catalog.work
 
 Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 SPDX-License-Identifier: MIT-0
+
+MY NAME IS CHANGE---
